@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget
         primaryColor: Colors.lightBlueAccent,
 
         appBarTheme: AppBarTheme(
-            backgroundColor: Colors.white,
+            backgroundColor: Colors.blue,
             elevation: 0.0,
             centerTitle: true,
             iconTheme: IconThemeData(color: Colors.black, )
